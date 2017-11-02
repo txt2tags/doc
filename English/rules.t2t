@@ -1,6 +1,7 @@
 Txt2tags Markup Rules
 
 
+%!target: html
 %!includeconf: rules.conf
 
 This document describes all the details about each txt2tags mark.
